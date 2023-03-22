@@ -1,2 +1,2 @@
-# Chirag_Automation
+# Zues_Automation
 My first repository
