@@ -1,0 +1,19 @@
+{
+  "name": "hellojs",
+  "version": "1.0.0",
+  "description": "This is a demo for Node Package Manager",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"I am testing the code\""
+  },
+  "keywords": [
+    "playwright",
+    "automation",
+    "zeus"
+  ],
+  "author": "Suresh Nanjan",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
